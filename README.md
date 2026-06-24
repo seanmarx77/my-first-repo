@@ -13,5 +13,5 @@ Some things that I like to do:
 • Traveling 
 
 Here's a picture of me traveling to Yosemite
-![at the waterfall](https://www.instagram.com/p/DY-9qgbpJ0U/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==)
+[at the waterfall](https://www.instagram.com/p/DY-9qgbpJ0U/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
