@@ -7,9 +7,13 @@ This is my first repository with GitHub
 Hi, I am **Sean**, I am a _**digital marketing professional**_ with a passion for web development.
 
 Some things that I like to do:
+
 • Going to the beach
+
 • Eating good food
-• Going to the gym 
+
+• Going to the gym
+
 • Traveling 
 
 Here's a picture of me traveling to Yosemite
