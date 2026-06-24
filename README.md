@@ -19,3 +19,24 @@ Some things that I like to do:
 Here's a picture of me traveling to Yosemite
 ![at the waterfall](IMG_7750.jpeg)
 
+## Skills & Technologies
+
+- Digital Marketing Strategy
+
+- SEO & Local SEO
+
+- Google Ads & LinkedIn Ads
+
+- Marketing Operations
+
+- GA4, GTM & Looker Studio
+
+- HubSpot & Salesforce
+
+- WordPress & Elementor
+
+- Email Marketing & Automation
+
+- Conversion Rate Optimization (CRO)
+
+- Content Marketing
